@@ -1,0 +1,16 @@
+{
+    "name": "ging-dev/simsimi-bot",
+    "description": "Simsimi BOT API",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ging-dev",
+            "email": "gingdz11012001@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php-curl-class/php-curl-class": "^9.1"
+    }
+}
